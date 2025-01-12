@@ -18,8 +18,6 @@
 	console.log(data);
 </script>
 
-<h1 class="text-2xl font-bold lowercase">readings</h1>
-
 <h2 class="text-xl font-semibold lowercase">daily</h2>
 <div class="grid grid-cols-8 font-mono">
 	<p class="font-bold">sensor_id</p>

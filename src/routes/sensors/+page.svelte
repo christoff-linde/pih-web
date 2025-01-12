@@ -10,8 +10,6 @@
 	});
 </script>
 
-<h1 class="text-2xl font-bold lowercase">Sensors</h1>
-
 <div class="grid grid-cols-4">
 	<p class="font-mono font-bold">sensor_id</p>
 	<p class="font-mono font-bold">sensor_name</p>
